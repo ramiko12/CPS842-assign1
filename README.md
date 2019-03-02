@@ -1,2 +1,2 @@
-# CPS842-assign1
-Assignment 1 for CPS842 - boolean IR model
+# A boolean IR model
+boolean IR model using java for the CACM document collection
